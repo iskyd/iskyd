@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Julia, Python & Computer Vision**
 
-- 📫 How to reach me **iskyd@protonmail.com**
+- 📫 How to reach me **iskyd@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,7 +31,7 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js"
                 width="40" height="40" /> </a> <a href="https://www.djangoproject.com/" target="_blank"
             rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"
                 alt="django" width="40" height="40" /> </a> <a href="https://www.docker.com/" target="_blank"
             rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
