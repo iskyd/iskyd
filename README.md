@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mattia</h1>
 <h3 align="center">Software Engineer in love with Data Science & Computer Vision</h3>
 
-- 🔭 I’m currently working on [PlayLife](https://playlife.events) and [nCore](https://www.ncorehr.com/)
+- 🌍 CEO & Co-Founder of [PlayLife](https://playlife.events) and Senior Backend Engineer at [Conio](https://www.conio.com/). Previously Lead AI Engineer at [nCore](https://www.ncorehr.com/)
 
-- 🌱 I’m currently learning **PyTorch & NodeJs**
+- 👨‍🎓 I’m currently learning **Bitcoin**
 
-- 🤝 I’m looking for help with [Validator.jl](https://github.com/iskyd/Validator.jl) A library of string validators and sanitizers
+- 🖥 I’m currently working on Bitcoin libraries for Julia ecosystem like [Bip39.jl](https://github.com/iskyd/Validator.jl). Also working on [Validator.jl](https://github.com/iskyd/Validator.jl) a library of string validators and sanitizers.
 
-- 💬 Ask me about **Julia, Python & Computer Vision**
+- 💬 Ask me about **Julia, Python, Docker & Software Engineer**
 
 - 📫 How to reach me **iskyd@proton.me**
 
