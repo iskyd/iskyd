@@ -5,7 +5,7 @@
 
 - 👨‍🎓 I’m currently learning **Bitcoin**
 
-- 🖥 I’m currently working on Bitcoin libraries for Julia ecosystem like [Bip39.jl](https://github.com/iskyd/Bip39.jl). Also working on [Validator.jl](https://github.com/iskyd/Validator.jl) a library of string validators and sanitizers.
+- 🖥 I’m currently working on Bitcoin libraries for Julia ecosystem like [Bip39.jl](https://github.com/iskyd/Bip39.jl). Also working on [SurrealDB.jl](https://github.com/iskyd/SurrealDB.jl) an unofficial SurrealDB client for Julia and [Validator.jl](https://github.com/iskyd/Validator.jl) a library of string validators.
 
 - 💬 Ask me about **Julia, Python, Docker & Software Engineer**
 
