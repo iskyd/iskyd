@@ -3,9 +3,9 @@
 
 - 🌍 CEO & Co-Founder of [PlayLife](https://playlife.events) and Senior Backend Engineer at [Conio](https://www.conio.com/). Previously Lead AI Engineer at [nCore](https://www.ncorehr.com/)
 
-- 👨‍🎓 I’m currently learning **Bitcoin**
+- 👨‍🎓 I’m currently learning **Go**, **Zig** and **Bitcoin**
 
-- 🖥 I’m currently working on Bitcoin libraries for Julia ecosystem like [Bip39.jl](https://github.com/iskyd/Bip39.jl). Also working on [SurrealDB.jl](https://github.com/iskyd/SurrealDB.jl) an unofficial SurrealDB client for Julia and [Validator.jl](https://github.com/iskyd/Validator.jl) a library of string validators.
+- 🖥 I’m currently working on Julia ecosystem on libraries like [Wasabi.jl](https://github.com/iskyd/Wasabi.jl) a simple ORM, [Bip39.jl](https://github.com/iskyd/Bip39.jl) and [Validator.jl](https://github.com/iskyd/Validator.jl) a library of string validators. I'm working as tech reviewer on a new book about Julia.
 
 - 💬 Ask me about **Julia, Python, Docker & Software Engineer**
 
