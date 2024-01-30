@@ -15,6 +15,8 @@ I'm currently working on some (not so serious) open source projects:
 - [walle](https://github.com/iskyd/walle) - Bitcoin wallet written in Zig.
 - [Wasabi.jl](https://github.com/iskyd/Wasabi.jl) - ORM for the Julia Language.
 
+I'm the tech reviewer of [Mastering Julia Second Edition](https://www.packtpub.com/product/mastering-julia-second-edition/9781805129790) and [Web Development with Julia and Genie](https://www.packtpub.com/product/web-development-with-julia-and-genie/9781801811132).
+
 ### Some stats
 <p><em>I mostly work with Zig, Julia and Python, don't ask me about js, I don't know why it is in the list.</em></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iskyd&show_icons=true&locale=en&layout=compact" alt="iskyd" /></p>
