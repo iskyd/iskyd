@@ -4,8 +4,9 @@
 📕 &nbsp;**Latest Blog Posts**
 <p><em>Sometimes I like to write on my yellow blog, but don't expect something serious</em></p>
 <!-- BLOG-POST-LIST:START -->
+
 - [Learning Zig and Bitcoin](https://iskyd.github.io/blog/2023/10/22/zig-bitcoin-part1.html)
-- [Wasabi, ORM for Julia](https://iskyd.github.io/blog/2023/05/13/wasabi-julia-orm.html)
+- [Wasabi - ORM for Julia](https://iskyd.github.io/blog/2023/05/13/wasabi-julia-orm.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### ✨&nbsp; About Me
