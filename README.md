@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mattia <img src="https://67.media.tumblr.com/18222d00013f5054a2a43887c54007e1/tumblr_n86kg26M8h1t63sglo1_500.gif" width="50"></h1>
-<p><em>Senior Software Engineer at <a href="https://conio.com">Conio</a><img src="https://media.giphy.com/media/l49JMVDvP8D38LHwI/giphy.gif" width="30"></em></p>
+<p><em>Senior Software Engineer at <a href="https://conio.com">Conio</a></em></p>
 
 📕 &nbsp;**Latest Blog Posts**
 <p><em>Sometimes I like to write on my yellow blog, but don't expect something serious</em></p>
 <!-- BLOG-POST-LIST:START -->
-- [Learning Zig and Bitcoin]([https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf](https://iskyd.github.io/blog/2023/10/22/zig-bitcoin-part1.html))
-- [Wasabi, ORM for Julia]([https://iskyd.github.io/blog/2023/05/13/wasabi-julia-orm.html])
+- [Learning Zig and Bitcoin](https://iskyd.github.io/blog/2023/10/22/zig-bitcoin-part1.html)
+- [Wasabi, ORM for Julia](https://iskyd.github.io/blog/2023/05/13/wasabi-julia-orm.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### ✨&nbsp; About Me
