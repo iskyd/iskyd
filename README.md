@@ -5,6 +5,7 @@
 <p><em>Sometimes I like to write on my yellow blog, but don't expect something serious</em></p>
 <!-- BLOG-POST-LIST:START -->
 
+- [Zurl - HTTP request tool written in Zig](https://iskyd.github.io/posts/2024-04-24-zurl/)
 - [Learning Zig and Bitcoin - Bip 38](https://iskyd.github.io/posts/2024-02-01-zig-bitcoin-part2)
 - [Learning Zig and Bitcoin - walle](https://iskyd.github.io/posts/2023-10-22-zig-bitcoin-part1/)
 - [Wasabi - ORM for Julia](https://iskyd.github.io/posts/2023-05-13-wasabi-julia-orm/)
