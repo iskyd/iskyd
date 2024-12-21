@@ -1,20 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mattia <img src="https://67.media.tumblr.com/18222d00013f5054a2a43887c54007e1/tumblr_n86kg26M8h1t63sglo1_500.gif" width="50"></h1>
 <p><em>Senior Software Engineer at <a href="https://conio.com">Conio</a></em></p>
 
-📕 &nbsp;**Latest Blog Posts**
-<p><em>Sometimes I like to write on my yellow blog, but don't expect something serious</em></p>
-<!-- BLOG-POST-LIST:START -->
-
-- [Zurl - HTTP request tool written in Zig](https://iskyd.github.io/posts/2024-04-24-zurl/)
-- [Learning Zig and Bitcoin - Bip 38](https://iskyd.github.io/posts/2024-02-01-zig-bitcoin-part2)
-- [Learning Zig and Bitcoin - walle](https://iskyd.github.io/posts/2023-10-22-zig-bitcoin-part1/)
-- [Wasabi - ORM for Julia](https://iskyd.github.io/posts/2023-05-13-wasabi-julia-orm/)
-<!-- BLOG-POST-LIST:END -->
-
 ### ✨&nbsp; About Me
 I'm a unprofessional video gamer, reader, bitcoiner, software engineer and part time batman. 
 I'm currently working on some (not so serious) open source projects:
 - [walle](https://github.com/iskyd/walle) - Bitcoin wallet written in Zig.
+- [stacks-rs](https://github.com/pavesini/stacks-rs) - Stacks Development Kit written in Rust.
 - [Wasabi.jl](https://github.com/iskyd/Wasabi.jl) - ORM for the Julia Language.
 - [Zurl](https://github.com/iskyd/zurl) - HTTP request tool written in Zig.
 
